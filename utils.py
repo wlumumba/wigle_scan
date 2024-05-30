@@ -172,6 +172,7 @@ class GoogleAPI:
     
 
   def get_first_valid_network(self):
+      self.log.info(f"Starting search for first valid network...")
       valid_network = next(
           (
               network

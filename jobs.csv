@@ -2,7 +2,8 @@ run,filename,lat,lon,radius,since,comment
 0,kendall_medical_center_0413,25.7311,-80.3864,1,20240413,Kendall Medical Center
 0,old_havana,25.76848,-80.21919,1,2.02304E+13,Old Havana
 0,old_havana_spam,25.76553,-80.21925,1,2.02401E+13,Old Havana
-1,old_havana_trial,25.774226,-80.140524,0.1,2.0240101E+13,Ross V1
+0,old_havana_trial,25.774226,-80.140524,0.1,2.0240101E+13,Ross V1
 0,old_havana_v2,25.765413,-80.219248,1,2.02401E+13,Old Havana V2
 0,old_havana_v2_mix,25.765577,-80.219488,1,2.02403E+13,Old Havana V2 Mix
 0,old_havana_v2_mix2,25.76535,-80.2191,1,2.02402E+13,Old Havana V2 Mix2
+1,castillo,25.798725,-80.199486,0.1,2.0240101E+13,Castillo V1

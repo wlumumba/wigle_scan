@@ -1,0 +1,149 @@
+{
+  "filename": "castillo-validated.json",
+  "wifi": [
+    {
+      "bssid": "18:E8:29:9B:7C:1B",
+      "channel": 149,
+      "distance_x": -3.848039300512768,
+      "distance_xy": -8.89113429700711,
+      "distance_y": -8.015288744052404,
+      "lat": 25.79865265,
+      "lon": -80.19944763,
+      "qos": 0,
+      "rssi": -50,
+      "ssid": "Toast-POS"
+    },
+    {
+      "bssid": "24:79:2A:01:50:58",
+      "channel": 1,
+      "distance_x": -12.264183634349383,
+      "distance_xy": -24.96979094571138,
+      "distance_y": -21.750402567836794,
+      "lat": 25.79852867,
+      "lon": -80.19936371,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "Guest WiFi"
+    },
+    {
+      "bssid": "08:36:C9:9A:33:E7",
+      "channel": 4,
+      "distance_x": -26.036694376145245,
+      "distance_xy": -26.230647771696418,
+      "distance_y": 3.183958536337974,
+      "lat": 25.79875374,
+      "lon": -80.19922638,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "Peppermint"
+    },
+    {
+      "bssid": "28:74:F5:55:D7:AC",
+      "channel": 157,
+      "distance_x": 4.5691079111853865,
+      "distance_xy": 29.947901682434747,
+      "distance_y": 29.597299115262967,
+      "lat": 25.79899216,
+      "lon": -80.19953156,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "Gotham Investigations"
+    },
+    {
+      "bssid": "28:74:F5:55:D7:A8",
+      "channel": 40,
+      "distance_x": -4.613234501446671,
+      "distance_xy": -30.162663293527693,
+      "distance_y": 29.807790465939153,
+      "lat": 25.79899406,
+      "lon": -80.19944,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "Gotham Investigations"
+    },
+    {
+      "bssid": "00:71:C2:D4:CE:78",
+      "channel": 11,
+      "distance_x": 3.0387175093175807,
+      "distance_xy": 30.383325539242488,
+      "distance_y": 30.230988866856723,
+      "lat": 25.79899788,
+      "lon": -80.1995163,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "AVATAR_MIAMI-2.4"
+    },
+    {
+      "bssid": "00:71:C2:E8:65:B8",
+      "channel": 48,
+      "distance_x": 10.689666642220432,
+      "distance_xy": 32.26483965056249,
+      "distance_y": 30.44258806734282,
+      "lat": 25.79899979,
+      "lon": -80.19959259,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "AVATAR_MIAMI-5.0"
+    },
+    {
+      "bssid": "18:E8:29:9A:7C:1B",
+      "channel": 6,
+      "distance_x": -32.923451185971345,
+      "distance_xy": -33.98768005921738,
+      "distance_y": -8.438487124497126,
+      "lat": 25.79864883,
+      "lon": -80.19915771,
+      "qos": 2,
+      "rssi": -50,
+      "ssid": "Swarm Staff"
+    },
+    {
+      "bssid": "08:36:C9:9A:33:E8",
+      "channel": 48,
+      "distance_x": -37.51361951513479,
+      "distance_xy": -38.04783995662375,
+      "distance_y": 6.353515046439272,
+      "lat": 25.79878235,
+      "lon": -80.19911194,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "Peppermint"
+    },
+    {
+      "bssid": "24:94:CB:90:9D:EA",
+      "channel": 11,
+      "distance_x": -16.09015963901839,
+      "distance_xy": -42.873452574802606,
+      "distance_y": 39.739658752408815,
+      "lat": 25.79908371,
+      "lon": -80.19932556,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "Bullet Pointe2.4"
+    },
+    {
+      "bssid": "28:74:F5:55:D7:A4",
+      "channel": 2,
+      "distance_x": 30.582736115048853,
+      "distance_xy": 46.70742414455816,
+      "distance_y": 35.302722597836116,
+      "lat": 25.79904366,
+      "lon": -80.19979095,
+      "qos": 7,
+      "rssi": -50,
+      "ssid": "Gotham Investigations"
+    },
+    {
+      "bssid": "24:94:CB:90:9D:EB",
+      "channel": 161,
+      "distance_x": -31.39306078267947,
+      "distance_xy": -54.886163414617,
+      "distance_y": 45.021883898466804,
+      "lat": 25.79913139,
+      "lon": -80.19917297,
+      "qos": 7,
+      "rssi": -55,
+      "ssid": "Bullet Pointe 5G"
+    }
+  ]
+}
