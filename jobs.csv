@@ -6,4 +6,4 @@ run,filename,lat,lon,radius,since,comment
 0,old_havana_v2,25.765413,-80.219248,1,2.02401E+13,Old Havana V2
 0,old_havana_v2_mix,25.765577,-80.219488,1,2.02403E+13,Old Havana V2 Mix
 0,old_havana_v2_mix2,25.76535,-80.2191,1,2.02402E+13,Old Havana V2 Mix2
-1,castillo,25.798725,-80.199486,0.1,2.0240101E+13,Castillo V1
+1,castillo,25.798725,-80.199486,0.1,2.0240100E+13,Castillo V1

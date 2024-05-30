@@ -111,8 +111,8 @@ class WigleAPI:
         wigle_data = wigle_data.json()['results']
       except:
         self.log.error('could not parse data: {}'.format(wigle_data))
-        self.log.error(wigle_data)
-        self.log.error(f'url: {url}')
+        self.log.error(wigle_data.text)
+        self.log.error(f'URL is: {url}')
         return []
 
       # Remove networks with 'null' for the SSID value
